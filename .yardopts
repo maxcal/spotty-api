@@ -1,0 +1,7 @@
+--title "Spotty API documentation"
+--readme README.md
+--protected
+--no-private
+-
+app/**/*.rb
+LICENSE.md
